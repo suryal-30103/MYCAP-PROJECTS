@@ -1,4 +1,4 @@
-# TO FIND THE AREO OF A CIRCLE
+# TO FIND THE AREA OF A CIRCLE
 
 r=float(input("Enetr the value of radius of the circle(in m)="))
 A=3.14*r*r
