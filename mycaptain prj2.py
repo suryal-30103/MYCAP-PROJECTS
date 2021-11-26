@@ -1,3 +1,4 @@
 filename=input("Enter the filaname with extension:-")
 a=filename.split('.')
-print("The filename and the extension is",a)
+f=a.pop(0)
+print("The extension of the file is",a)
